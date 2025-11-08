@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "rooms": "CHAMBRES",
+    "excursions": "EXCURSIONS",
+    "transfers": "TRANSFERTS",
+    "packages": "FORFAITS",
+    "contact": "CONTACT"
+  },
+  "bottomNav": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "excursions": "Excursions",
+    "transfers": "Transferts",
+    "packages": "Forfaits",
+    "contact": "Contact"
+  },
+  "homePage": {
+    "title": "Bienvenue au Garden Inn",
+    "subtitle": "Votre porte d'entrée pour une aventure inoubliable dans la jungle au cœur de Sumatra Nord."
+  },
+  "roomsPage": {
+    "title": "Nos Chambres",
+    "description": "Le Garden Inn ne propose que 12 chambres réparties dans un jardin tropical d'un hectare, avec des vues incroyables sur la jungle et la possibilité d'observer la faune locale juste devant votre porte.",
+    "showMore": "Plus de Détails",
+    "showLess": "Moins de Détails"
+  },
+  "rooms": {
+    "standard": {
+      "name": "Chambre Standard",
+      "features": {
+        "gardenView": "Vue Jardin", "size": "25m²", "persons": "Max 2 personnes", "breakfast": "Petit-déjeuner inclus"
+      },
+      "details": {
+        "bedroom": { "title": "Chambre", "bed": "Lit double (160x180 cm)", "net": "Moustiquaire", "fan": "Ventilateur" },
+        "bathroom": { "title": "Salle de Bain Privée", "sink": "Lavabo", "shower": "Douche", "toilet": "Toilettes occidentales" },
+        "terrace": { "title": "Terrasse", "seating": "Coin salon", "hammock": "Hamac" }
+      }
+    },
+    "superior": {
+      "name": "Chambre Supérieure",
+      "features": {
+        "jungleView": "Vue Jungle", "size": "25m²", "persons": "Max 2 personnes", "breakfast": "Petit-déjeuner inclus"
+      },
+      "details": {
+        "bedroom": { "title": "Chambre", "bed": "Lit double (180x200 cm)", "net": "Moustiquaire", "fan": "Ventilateur", "safe": "Coffre-fort" },
+        "bathroom": { "title": "Salle de Bain Privée", "sink": "Lavabo", "shower": "Douche", "toilet": "Toilettes occidentales" },
+        "terrace": { "title": "Terrasse", "seating": "Coin salon", "hammock": "Hamac" }
+      }
+    },
+    "family": {
+      "name": "Chambre Familiale",
+      "features": {
+        "jungleView": "Vue Jungle", "size": "30m²", "persons": "Max 4 personnes", "breakfast": "Petit-déjeuner inclus"
+      },
+      "details": {
+        "bedroom": { "title": "Chambre", "bed1": "Lit double (180x200 cm)", "bed2": "2 Lits simples (90x180 cm)", "net": "Moustiquaire", "fan": "Ventilateur", "safe": "Coffre-fort" },
+        "bathroom": { "title": "Salle de Bain Privée", "sink": "Lavabo", "shower": "Douche", "toilet": "Toilettes occidentales" },
+        "terrace": { "title": "Terrasse", "seating": "Coin salon", "hammock": "Hamac" }
+      }
+    },
+    "bungalow": {
+      "name": "Bungalow Familial",
+      "features": {
+        "jungleView": "Vue Jungle", "size": "60m²", "persons": "Max 5 personnes", "breakfast": "Petit-déjeuner inclus"
+      },
+      "details": {
+        "bedroom1": { "title": "Chambre 1", "bed": "Lit double (160x200 cm)" },
+        "bedroom2": { "title": "Chambre 2", "bed1": "Lit double (180x200 cm)", "bed2": "1 Lit simple (90x180 cm)", "net": "Moustiquaire", "fan": "Ventilateur", "safe": "Coffre-fort" },
+        "bathroom": { "title": "Salle de Bain Privée", "sink": "Lavabo", "shower": "Douche", "toilet": "Toilettes occidentales" },
+        "terrace": { "title": "Terrasse", "seating": "Coin salon", "hammock": "Hamac" }
+      }
+    }
+  },
+  "excursions": {
+    "jungleTreks": {
+      "title": "Trekking dans la Jungle",
+      "description": "Profitez d'un trek inoubliable à travers le parc national de Gunung Leuser, réputé pour sa jungle luxuriante et sa faune diversifiée. Cette aventure offre une occasion unique d'observer des orangs-outans sauvages et d'autres animaux exotiques dans leur habitat naturel.",
+      "optionsTitle": "Options de Trek",
+      "mealsLabel": "Repas :",
+      "options": {
+        "halfDay": { "duration": "Demi-journée (3 heures)", "meals": "Collations de fruits" },
+        "oneDay": { "duration": "Une journée (6 heures)", "meals": "Collations de fruits, Déjeuner" },
+        "twoDays": { "duration": "Deux jours / Une nuit", "meals": "Collations de fruits, 2x Déjeuner, 1x Dîner, 1x Petit-déjeuner" },
+        "threeDays": { "duration": "Trois jours / Deux nuits", "meals": "Collations de fruits, 3x Déjeuner, 2x Dîner, 2x Petit-déjeuner" }
+      },
+      "info": {
+        "title": "Informations Importantes",
+        "description": "Tous les treks commencent à 9h00, incluent l'entrée du parc, un guide certifié et le retour en rafting traditionnel. Les treks avec nuitée comprennent une installation de camping complète avec un cuisinier personnel.",
+        "whatToBring": "À apporter :",
+        "whatToBringDetails": "Chaussures de randonnée, maillot de bain, serviette. Pour les nuitées, prévoyez des vêtements longs, une veste et une lampe de poche."
+      }
+    },
+    "other": {
+      "title": "Autres Excursions",
+      "description": "Plongez dans la culture et la nature locales avec nos activités uniques.",
+      "learnMore": "En savoir plus",
+      "massage": { "name": "Massage", "description": "Profitez d'une séance de détente après votre trek. Le massage traditionnel aide à relâcher les tensions et à restaurer votre énergie et votre bien-être.", "details": { "duration": "Durée : 1 heure", "price": "Prix : 200 000 IDR/personne" } },
+      "cooking": { "name": "Cours de Cuisine", "description": "Découvrez les saveurs de Sumatra et apprenez à cuisiner des plats traditionnels avec des ingrédients frais du marché du jour. Explorez une variété de légumes, d'herbes et d'épices, et apprenez à les préparer et à les combiner. Après le cours, détendez-vous et savourez le repas que vous avez préparé.", "details": { "dishes": "Choisissez 2 plats parmi : Gado-gado, Asam Manis, Kari, Semur, Sate et Sambal.", "options": "Options végétariennes et végétaliennes disponibles.", "time": "Heure : 10h00 – 13h00", "group": "Groupe : Min 2 - Max 4 personnes", "price": "Prix : 400 000 IDR/personne" } },
+      "village": { "name": "Tour du Village", "description": "Explorez le village en becak (moto traditionnelle avec side-car) ou à vélo pour voir les rizières, les plantations de fruits et légumes, et la production traditionnelle de sucre de palme et de tofu. Terminez votre excursion par un délicieux déjeuner dans les rizières en dégustant une noix de coco fraîche.", "details": { "time": "Heure : 9h00 – 13h00", "group": "Groupe : Minimum 2 personnes", "price": "Prix : 450 000 IDR/personne" } },
+      "night": { "name": "Trek de Nuit", "description": "Découvrez la jungle après la tombée de la nuit ! Pendant ce trek nocturne, vous aurez la chance d'apercevoir des animaux difficiles à voir pendant la journée, car ils se cachent généralement de la chaleur et du soleil. Vous pourriez rencontrer des serpents, des scorpions, des mille-pattes, des grenouilles, des lézards et d'autres créatures nocturnes fascinantes.", "details": { "time": "Heure : 19h00 – 22h00", "price": "Prix : 400 000 IDR/personne" } },
+      "flower": { "name": "Excursion Florale", "description": "Une escapade nature à la recherche de fleurs rares telles que la Rafflesia ou l'Arum titan. Ce voyage n'est possible que lorsqu'une fleur est en éclosion à proximité — comme leur apparition est aléatoire, veuillez nous contacter pour vérifier la disponibilité actuelle.", "details": { "price": "Prix : 400 000 IDR/personne" } }
+    }
+  },
+  "transfers": {
+    "title": "Transferts",
+    "description": "Voyagez en toute simplicité. Nous proposons des transferts privés fiables et des options de bus touristique depuis et vers les principales destinations de Sumatra Nord.",
+    "info": {
+      "title": "Voyagez en toute simplicité",
+      "description": "Nous organisons des transferts privés et des liaisons en bus touristique pour rendre votre voyage vers et depuis la jungle aussi fluide que possible. Tous nos chauffeurs sont expérimentés et les véhicules sont climatisés pour votre confort."
+    },
+    "viewOptions": "Voir toutes les options et prix de transfert",
+    "private": {
+      "title": "🚗 Service de Transfert Privé",
+      "routes": {
+        "medanCenter": "Medan (centre-ville) ↔ Bukit Lawang", "medanOutside": "Medan (extérieur ville) ↔ Bukit Lawang", "medanAirport": "Medan (aéroport / hôtel proche) ↔ Bukit Lawang", "tangkahan": "Tangkahan ↔ Bukit Lawang", "tangkahanRound": "Tangkahan ↔ Bukit Lawang (Aller-Retour)", "medanTangkahan": "Aéroport de Medan ↔ Bukit Lawang (via Tangkahan)", "berastagi": "Berastagi ↔ Bukit Lawang", "lakeToba": "Lac Toba (Port de Parapat) ↔ Bukit Lawang", "lakeTobaBerastagi": "Lac Toba ↔ Bukit Lawang (via Berastagi)"
+      }
+    },
+    "bus": {
+      "title": "🚌 Bus Touristique",
+      "routes": {
+        "medan": "Aéroport de Medan / hôtel proche → Bukit Lawang", "lawangMedan": "Bukit Lawang → Aéroport de Medan / hôtel proche", "berastagi": "Bukit Lawang → Berastagi", "lakeToba": "Bukit Lawang → Lac Toba"
+      }
+    },
+    "table": { "route": "Trajet", "duration": "Durée", "vehicle": "Véhicule", "maxPersons": "Pers. Max", "price": "Prix (IDR)", "departure": "Heure de Départ", "pricePerson": "Prix (IDR/pers.)" },
+    "vehicles": { "car": "Voiture", "minibus": "Minibus" }
+  },
+  "packages": {
+    "title": "Nos Forfaits",
+    "description": "Découvrez le meilleur de Bukit Lawang avec nos forfaits tout-en-un, conçus pour rendre votre aventure simple et inoubliable.",
+    "includedTitle": "Ce qui est inclus :",
+    "priceTitle": "Prix (à partir de) :",
+    "package1": {
+      "name": "Forfait 1",
+      "inclusions": { "pickup": "Prise en charge à l'aéroport de Medan en voiture privée", "night1": "1 nuit en Chambre Supérieure/Familiale", "trek": "Trekking jungle 2 jours / 1 nuit + rafting", "night2": "1 nuit en Chambre Supérieure/Familiale", "dropoff": "Retour à l'aéroport de Medan en voiture privée" },
+      "prices": { "person1": "Pour 1 personne : 3 980 000 IDR", "person2": "Pour 2 personnes : 5 800 000 IDR", "person3": "Pour 3 personnes : 7 700 000 IDR", "person4": "Pour 4 personnes : 9 600 000 IDR" }
+    },
+    "package2": {
+      "name": "Forfait 2",
+      "inclusions": { "pickup": "Prise en charge à l'aéroport de Medan en voiture privée", "nights": "2 nuits en Chambre Supérieure/Familiale", "trek": "Trekking jungle 1 journée + rafting", "dropoff": "Retour à l'aéroport de Medan en voiture privée" },
+      "prices": { "person2": "Pour 2 personnes : 4 200 000 IDR", "person3": "Pour 3 personnes : 5 300 000 IDR", "person4": "Pour 4 personnes : 6 400 000 IDR" }
+    },
+    "package3": {
+      "name": "Forfait 3",
+      "inclusions": { "pickup": "Prise en charge à l'aéroport de Medan en bus touristique (départ à 14h00)", "night1": "1 nuit en Chambre Standard", "trek": "Trekking jungle 2 jours / 1 nuit + rafting", "night2": "1 nuit en Chambre Standard", "dropoff": "Retour à l'aéroport de Medan en bus touristique (départ à 8h30)" },
+      "prices": { "person1": "Pour 1 personne : 2 800 000 IDR", "person2": "Pour 2 personnes : 4 900 000 IDR" }
+    }
+  },
+  "contactPage": {
+    "title": "Nous Contacter",
+    "description": "Vous avez une question ou une demande spéciale ? Envoyez-nous un message !",
+    "form": {
+      "name": "Nom", "email": "Email", "pax": "Nombre de Personnes", "dates": "Dates", "datesPlaceholder": "ex: 15-20 mai 2024", "message": "Message", "submit": "Envoyer le Message"
+    },
+    "success": {
+      "title": "Merci !", "message": "Votre message a été envoyé. Nous vous répondrons sous peu."
+    }
+  },
+  "footer": {
+    "contact": "Nous Contacter",
+    "address": "Garden Inn, Bukit Lawang, Sumatra Nord",
+    "reviewsTitle": "L'Avis de Nos Clients",
+    "reviewsButton": "Lire nos avis Google",
+    "socialTitle": "Suivez Nos Aventures",
+    "socialButton": "Visitez notre Instagram",
+    "copyright": "© {year} Garden Inn. Tous Droits Réservés."
+  }
+}
